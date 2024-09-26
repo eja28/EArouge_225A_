@@ -1,4 +1,4 @@
-# EArouge_225A_
+# Liz Arouge
 
 This is my repo for BMS 225A - Data Science. My work is organized as follows:
 
